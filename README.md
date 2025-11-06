@@ -17,7 +17,7 @@ Machine Learning: Predictive model for diabetes detection
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/yourusername/diabetes-detection-app.git
+git clone https://github.com/yourusername/P.git
 
 python manage.py migrate
 Run the server:
